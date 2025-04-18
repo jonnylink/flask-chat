@@ -1,3 +1,6 @@
+anthropic
 flask
+openai
+os
 python-dotenv
 requests
